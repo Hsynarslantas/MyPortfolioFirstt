@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natar\\source\\repos\\MyPortfolioFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2234BF-7FB4-4C2E-BCEF-E4B0BA1596BB}|MyPortfolioFirst\\MyPortfolioFirst.csproj|c:\\users\\natar\\source\\repos\\myportfoliofirst\\myportfoliofirst\\wwwroot\\ready-bootstrap-dashboard-master\\forms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F2234BF-7FB4-4C2E-BCEF-E4B0BA1596BB}|MyPortfolioFirst\\MyPortfolioFirst.csproj|solutionrelative:myportfoliofirst\\wwwroot\\ready-bootstrap-dashboard-master\\forms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "forms.html",
+              "DocumentMoniker": "C:\\Users\\natar\\source\\repos\\MyPortfolioFirst\\MyPortfolioFirst\\wwwroot\\Ready-Bootstrap-Dashboard-master\\forms.html",
+              "RelativeDocumentMoniker": "MyPortfolioFirst\\wwwroot\\Ready-Bootstrap-Dashboard-master\\forms.html",
+              "ToolTip": "C:\\Users\\natar\\source\\repos\\MyPortfolioFirst\\MyPortfolioFirst\\wwwroot\\Ready-Bootstrap-Dashboard-master\\forms.html",
+              "RelativeToolTip": "MyPortfolioFirst\\wwwroot\\Ready-Bootstrap-Dashboard-master\\forms.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-11T06:52:14.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
