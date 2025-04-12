@@ -37,15 +37,6 @@ Desteklerinizi ve geri bildirimlerinizi memnuniyetle karşılarım! 🙌
 
 #aspnetcore #csharp #mvc #webdevelopment #dashboard #portfolio #developer #github #softwaredevelopment
 
-İstersen İngilizce versiyonunu da yazarım. Paylaşmadan önce son bir bakayım mı başka eklemek istediğin bir şey var mı?
-
-
-
-Şunu dedin:
-sql e bağlantı da yaptım veritabanlarını oradan çektik onuda ekler misin
-
-ChatGPT:
-Tabii, harika bir detay! SQL veritabanı bağlantısı da projeye ayrı bir değer katıyor çünkü verilerin dinamik olarak işlendiğini ve gerçek bir uygulama gibi çalıştığını gösteriyor. Onu da açıklamaya dahil edelim. Güncellenmiş hali aşağıda, artık tam bir LinkedIn paylaşımı olmaya hazır 👇
 
 🎯 ASP.NET Core MVC ile To-Do List & Kişisel Portföy Uygulaması Geliştirdim!
 
